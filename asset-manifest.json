@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_portfolio/static/css/main.2ef9070f.css",
+    "main.js": "/react_portfolio/static/js/main.ba456b3b.js",
+    "static/media/Restro.png": "/react_portfolio/static/media/Restro.5daea5404ac0ff37628b.png",
+    "static/media/todo.png": "/react_portfolio/static/media/todo.eeed2b63cf1fc0b43cf5.png",
+    "static/media/Yportfolio.png": "/react_portfolio/static/media/Yportfolio.0dcbbe3b7f1a7b89b81d.png",
+    "static/media/Rportfolio.png": "/react_portfolio/static/media/Rportfolio.239472f3e388df155695.png",
+    "static/media/ECom.png": "/react_portfolio/static/media/ECom.85e4ec8340cf73e07ce0.png",
+    "static/media/news.png": "/react_portfolio/static/media/news.e4d27dadbdff949c6fec.png",
+    "static/media/weather.png": "/react_portfolio/static/media/weather.89651a5bedfd3409aef5.png",
+    "static/media/Calculator.png": "/react_portfolio/static/media/Calculator.28a486b8e2afd714f988.png",
+    "static/media/HeroImage.jpg": "/react_portfolio/static/media/HeroImage.2282adf4ab99e2d3a1c7.jpg",
+    "index.html": "/react_portfolio/index.html",
+    "main.2ef9070f.css.map": "/react_portfolio/static/css/main.2ef9070f.css.map",
+    "main.ba456b3b.js.map": "/react_portfolio/static/js/main.ba456b3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ef9070f.css",
+    "static/js/main.ba456b3b.js"
+  ]
+}
